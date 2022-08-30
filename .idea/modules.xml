@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FaceAndEyeDetection-Local.iml" filepath="$PROJECT_DIR$/.idea/FaceAndEyeDetection-Local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AmazonAleksaReviewRatingsAnalysis/.idea/AleksaReviewRatingsAnalysis.iml" filepath="$PROJECT_DIR$/../AmazonAleksaReviewRatingsAnalysis/.idea/AleksaReviewRatingsAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FaceAndEyeDetection.iml" filepath="$PROJECT_DIR$/.idea/FaceAndEyeDetection.iml" />
     </modules>
   </component>
 </project>
